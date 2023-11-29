@@ -5,3 +5,6 @@
 ``` python
 print("idk godotocat 🤣")
 ```
+- [x] Use GitHub
+- [x] Do things
+- [ ] Other things
